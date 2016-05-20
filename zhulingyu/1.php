@@ -1,3 +1,3 @@
 <?php
-	echo 'zh';
+	echo 'zhiiii';
 ?>
